@@ -1,4 +1,4 @@
 
-# Main-Workflow
+# Generative Art
 
-Template for projects in R
+Testing Generative Art in R

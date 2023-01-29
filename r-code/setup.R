@@ -19,8 +19,6 @@ source("auxiliar/functions.R")
 
 # Run
 
-source("run/1_get_data.R")
-source("run/2_calculate.R")
-source("run/3_export.R")
+source("run/gen_art.R")
 
 #---
